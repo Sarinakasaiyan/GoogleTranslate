@@ -65,14 +65,14 @@ To compare the performance of two machine translation models, **T5** and **Maria
  💡 Key Findings
 
 - Language Performance: 
-  Marian model outperformed T5 in English-to-French translation with a **7% higher** METEOR score[1][4].
+  Marian model outperformed T5 in English-to-French translation with a **7% higher** METEOR score.
 
 - Resource Optimization:  
-  Marian model, with its encoder-decoder architecture, performed inference **40% faster** than T5[4][7].
+  Marian model, with its encoder-decoder architecture, performed inference **40% faster** than T5.
 
 - Challenges:
-  - T5 showed difficulties in maintaining syntactic structure for complex German sentences[1]
-  - Both models experienced reduced accuracy when translating specialized terminology[3]
+  - T5 showed difficulties in maintaining syntactic structure for complex German sentences.
+  - Both models experienced reduced accuracy when translating specialized terminology.
 
  🛠️ Practical Applications
 
