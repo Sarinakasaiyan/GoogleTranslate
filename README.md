@@ -14,7 +14,7 @@ Google translate
 <img width="403" alt="image" src="https://github.com/user-attachments/assets/2e3cc44a-87be-4524-a0ce-fe6c01cc9d99" />
 
 ---
-
+___
 
 
 
